@@ -10,7 +10,7 @@ Autopirate looks through your spotify library and downloads all of the songs in 
 * `apt-get install libcurl-dev`
 * `pip install pycurl`
 * `pip install ytdl`
-* `pip install spodipy`
+* `pip install spotipy`
 
 #### Step 2: Create a spotify api application
 <b>Important:</b> Make sure you create this under the account you want to download from (you can't currently download other people's playlists) Also, make sure you use `http://localhost:8888/callback` as your redirect url (don't worry, you don't need to actually set up a local server)
