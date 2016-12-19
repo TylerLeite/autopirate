@@ -1,0 +1,7 @@
+dl/*
+!dl/.placeholder
+
+logs/hist/*.log
+logs/err/*.log
+
+.cache-*
